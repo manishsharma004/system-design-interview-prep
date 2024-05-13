@@ -1,55 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="auto"
-    height="auto" viewBox="-0.5 -0.5 1103 1078"
-    content="<mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2024-04-18T05:58:09.927Z&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36&quot; etag=&quot;uHxUCpHaLWLmzL65FB53&quot; version=&quot;24.2.5&quot; type=&quot;device&quot; scale=&quot;1&quot; border=&quot;0&quot;>
-  <diagram name=&quot;Page-1&quot; id=&quot;x4dLynlKSfcjbCRVQj2k&quot;>
-    <mxGraphModel dx=&quot;2577&quot; dy=&quot;2097&quot; grid=&quot;1&quot; gridSize=&quot;10&quot; guides=&quot;1&quot; tooltips=&quot;1&quot; connect=&quot;1&quot; arrows=&quot;1&quot; fold=&quot;1&quot; page=&quot;1&quot; pageScale=&quot;1&quot; pageWidth=&quot;827&quot; pageHeight=&quot;1169&quot; background=&quot;none&quot; math=&quot;0&quot; shadow=&quot;0&quot;>
-      <root>
-        <mxCell id=&quot;0&quot; />
-        <mxCell id=&quot;1&quot; parent=&quot;0&quot; />
-        <mxCell id=&quot;gNhk3POLotagK3ktl2mK-46&quot; value=&quot;&amp;lt;b&amp;gt;System Design Basics&amp;lt;/b&amp;gt;&quot; style=&quot;swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;absoluteArcSize=0;rounded=1;arcSize=8;fillColor=#60a917;fontColor=#FFFFFF;strokeColor=#2f8d46;gradientColor=#006600;shadow=1;labelBorderColor=none;labelBackgroundColor=none;textShadow=0;whiteSpace=wrap;html=1;align=center;fontSize=15;&quot; parent=&quot;1&quot; vertex=&quot;1&quot;>
-          <mxGeometry x=&quot;-160&quot; y=&quot;-610&quot; width=&quot;160&quot; height=&quot;180&quot; as=&quot;geometry&quot;>
-            <mxRectangle x=&quot;-140&quot; y=&quot;-587.5&quot; width=&quot;110&quot; height=&quot;27.5&quot; as=&quot;alternateBounds&quot; />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id=&quot;gNhk3POLotagK3ktl2mK-47&quot; value=&quot;&amp;lt;font style=&amp;quot;font-size: 15px;&amp;quot;&amp;gt;&amp;lt;a target=" _blank"=""
-    href="&amp;quot;https://www.geeksforgeeks.org/system-design-horizontal-and-vertical-scaling/&amp;quot;"
-    style="&amp;quot;font-size:" 15px;&amp;quot;&amp;gt;horizontal="" and="" vertical="" scaling&amp;lt;=""
-    a&amp;gt;&amp;lt;="" font&amp;gt;&quot;="" parent="&quot;gNhk3POLotagK3ktl2mK-46&quot;" vertex="&quot;1&quot;>
-" &lt;mxgeometry="" y="&quot;28&quot;" as="&quot;geometry&quot;" &gt;&#10;="" &lt;="" mxcell&gt;&#10;="" &lt;mxcell=""
-    id="&quot;gNhk3POLotagK3ktl2mK-48&quot;" value="&quot;&amp;lt;font" 15px;&amp;quot;&amp;gt;&amp;lt;a=""
-    target="_blank" 15px;&amp;quot;&amp;gt;ooad&amp;lt;="" 15px;&amp;quot;&amp;gt;monolithic="" vs=""
-    microservices&amp;lt;="" 15px;&amp;quot;&amp;gt;domain="" name="" system(dns)&amp;lt;="" x="&quot;810&quot;"
-    &lt;mxrectangle="" mxgeometry&gt;&#10;="" 15px;&amp;quot;&amp;gt;sql="" or="" nosql&amp;lt;=""
-    15px;&amp;quot;&amp;gt;database="" sharding&amp;lt;="" 15px;&amp;quot;&amp;gt;data="" partitioning&amp;lt;=""
-    span&amp;gt;&quot;="" 15px;&amp;quot;&amp;gt;indexing&amp;lt;="" diagrams&amp;lt;="" b&amp;gt;&quot;=""
-    15px;&amp;quot;&amp;gt;class="" diagram&amp;lt;="" 15px;&amp;quot;&amp;gt;object=""
-    15px;&amp;quot;&amp;gt;package="" 15px;&amp;quot;&amp;gt;activity="" 15px;&amp;quot;&amp;gt;software=""
-    testing&amp;lt;="" rgb(255,="" 255,="" 255);="" --darkreader-inline-bgcolor:="" #181a1b;="" font-size:=""
-    15px;&amp;quot;="" data-darkreader-inline-bgcolor="&amp;quot;&amp;quot;&amp;gt;&amp;lt;font"
-    15px;&amp;quot;&amp;gt;quality="" assurance&amp;lt;="" font&amp;gt;&amp;lt;="" 15px;&amp;quot;&amp;gt;security=""
-    measures&amp;lt;="" source="&quot;gNhk3POLotagK3ktl2mK-63&quot;" edge="&quot;1&quot;>
-" relative="&quot;1&quot;" 15px;&amp;quot;&amp;gt;&amp;lt;b="" 15px;&amp;quot;&amp;gt;system="" design=""
-    roadmap&amp;lt;="" b&amp;gt;&amp;lt;="" &lt;mxpoint="" 15px;&amp;quot;&amp;gt;getting="" started="" with=""
-    system="" design&amp;lt;="" 15px;&amp;quot;&amp;gt;basics="" of="" border-box;="" margin:="" 0px;="" padding:=""
-    border:="" vertical-align:="" baseline;="" clear:="" both;="" color:="" rgb(39,="" 50,="" 57);="" font-family:=""
-    nunito,="" sans-serif;="" letter-spacing:="" 0.108px;="" text-align:="" left;="" background-color:=""
-    --darkreader-inline-border-top:="" --darkreader-inline-border-right:="" --darkreader-inline-border-bottom:=""
-    --darkreader-inline-border-left:="" --darkreader-inline-color:="" #cac5be;=""
-    data-darkreader-inline-border-top="&amp;quot;&amp;quot;" data-darkreader-inline-border-right="&amp;quot;&amp;quot;"
-    data-darkreader-inline-border-bottom="&amp;quot;&amp;quot;"
-    data-darkreader-inline-border-left="&amp;quot;&amp;quot;" data-darkreader-inline-color="&amp;quot;&amp;quot;"
-    15px;&amp;quot;&amp;gt;high-level="" design?&amp;lt;="" h2&amp;gt;&quot;="" 15px;=""
-    255);&amp;quot;&amp;gt;&amp;lt;b="" 15px;&amp;quot;&amp;gt;databases&amp;lt;=""
-    15px;&amp;quot;&amp;gt;scalability&amp;lt;="" 15px;&amp;quot;&amp;gt;uml="" 15px;&amp;quot;&amp;gt;low="" level=""
-    15px;&amp;quot;&amp;gt;testing="" qa&amp;lt;="" 15px;&amp;quot;&amp;gt;interview="" tips&amp;lt;=""
-    15px;&amp;quot;&amp;gt;what="" is="" scalability&amp;lt;="" 15px;&amp;quot;&amp;gt;scalability=""
-    approach&amp;lt;="" 15px;&amp;quot;&amp;gt;bottlenecks&amp;lt;="" 15px;&amp;quot;&amp;gt;lld&amp;lt;=""
-    15px;&amp;quot;&amp;gt;design="" patterns&amp;lt;="" 15px;&amp;quot;&amp;gt;unit=""
-    15px;&amp;quot;&amp;gt;integration="" prep&amp;lt;="" questions&amp;lt;="" 15px;&amp;quot;&amp;gt;top="" lld=""
-    15px;&amp;quot;&amp;gt;high="" 15px;&amp;quot;&amp;gt;cap="" theorem&amp;lt;=""
-    15px;&amp;quot;&amp;gt;cdn&amp;lt;="" 15px;&amp;quot;&amp;gt;api="" gateway&amp;lt;="" div&amp;gt;&quot;=""
-    started&amp;lt;="" importance&amp;lt;="" a&amp;gt;&quot;="" analysis="" strategy&amp;lt;="" connectable="&quot;0&quot;>
-" root&gt;&#10;="" mxgraphmodel&gt;&#10;="" diagram&gt;&#10;&lt;="" mxfile&gt;&#10;"="">
+    height="auto" viewBox="-0.5 -0.5 1103 1078">
     <defs>
         <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-60a917-1-006600-1-s-0">
             <stop offset="0%" style="stop-color: rgb(96, 169, 23); stop-opacity: 1;"></stop>

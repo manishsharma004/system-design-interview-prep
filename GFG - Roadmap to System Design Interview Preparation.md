@@ -21,7 +21,8 @@ Important Topics for Roadmap to Learn System Design
   - [**Chapter 9: System Design Interview Questions and Answers**](#chapter-9-system-design-interview-questions-and-answers)
   - [**Chapter 10: How to Crack System Design Interview Round**](#chapter-10-how-to-crack-system-design-interview-round)
 
-![Animated Roadmap](static/roadmap.svg)
+
+![Roadmap](static/roadmap.svg)
 
 **Chapter 1: Getting Started with System Design**
 -----------------------------------------------------
